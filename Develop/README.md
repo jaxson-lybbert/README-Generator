@@ -1,9 +1,9 @@
-# READEME.md Generator
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Professional README Generator
+  
   
   ## Description
   
-  A CLI interface that generates a professional README for any project based on user input
+  This is a command line application that dynamically creates a professional README.md file based off of user input using the inquirer and fs npms.
   
   ## Table of Contents
   
@@ -16,20 +16,19 @@
   
   ## Installation
   
-  N/A
+  You will need to have node.js and the npm inquirer ver. 8.2.5 installed to be able to run this generator.
   
   ## Usage
   
-  Run it
+  This application is launched using the command "node index.js." From there, simply follow the given prompts to have a fully developed, professional looking README.md file made for you.
   
   ## Contributing
   
-  Don't
+  Feel free to customize this application in any way that suits your needs.
   
   ## Testing
   
-  No
+  N/A
   
   ## Questions
-  If you have any additional questions, feel free to contact me on Github @jaxson-lybbert.
-  Or by email: jax.a.lybb@gmail.com
+  If you have any additional questions, feel free to contact me on Github @jaxson-lybbert, or by email: jax.a.lybb@gmail.com
