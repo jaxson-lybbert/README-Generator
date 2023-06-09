@@ -20,6 +20,7 @@
   ## Usage
   
   This application is launched using the command "node index.js." From there, simply follow the given prompts to have a fully developed, professional looking README.md file made for you.
+  Here is a link to a video demo of the application: [Demo Video](https://drive.google.com/file/d/1eaR1Fgen9dihAIQU2hcDeyJAoU77T-ZJ/view)
   
   ## Contributing
   
