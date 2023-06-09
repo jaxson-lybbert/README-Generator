@@ -1,9 +1,9 @@
-# NHL Fan Plan
-  Attach license badge here
+# READEME.md Generator
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description
   
-  A simple dashboard to keep track of your favorite hockey stats
+  A CLI interface that generates a professional README for any project based on user input
   
   ## Table of Contents
   
@@ -16,19 +16,19 @@
   
   ## Installation
   
-  No installation required
+  N/A
   
   ## Usage
   
-  Simply got to the launches application and interact
+  Run it
   
   ## Contributing
   
-  Please do not contribute
+  Don't
   
   ## Testing
   
-  No testing is necessary
+  No
   
   ## Questions
   If you have any additional questions, feel free to contact me on Github @jaxson-lybbert.
